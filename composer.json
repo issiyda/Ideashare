@@ -64,6 +64,6 @@
         ],
         "compile": [
             "@php -r \"file_exists('.env') || copy('.env.heroku', '.env');\""
-        ],
+        ]
     }
 }
